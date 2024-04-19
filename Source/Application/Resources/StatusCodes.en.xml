@@ -1,0 +1,10 @@
+<cultures>
+	<culture name="en">
+		<statusCodes>
+			<_404>
+				<name>Not found</name>
+				<text>The requested resource could not be found.</text>
+			</_404>
+		</statusCodes>
+	</culture>
+</cultures>

@@ -1,0 +1,10 @@
+<cultures>
+	<culture name="de">
+		<statusCodes>
+			<_404>
+				<name>Nicht gefunden</name>
+				<text>Die angeforderte Ressource konnte nicht gefunden werden.</text>
+			</_404>
+		</statusCodes>
+	</culture>
+</cultures>
